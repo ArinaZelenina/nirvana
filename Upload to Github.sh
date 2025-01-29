@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Ссылка на GitHub репозиторий
-REPO_URL=https://github.com/ArinaZelenina/brain.git
+REPO_URL=https://github.com/ArinaZelenina/nirvana.git
 
 git remote remove origin
 git init
